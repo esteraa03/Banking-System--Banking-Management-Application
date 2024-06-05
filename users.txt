@@ -1,0 +1,4 @@
+alex  112233 pass 1
+ion  12212 aaa 0
+bogdan 2209 bbb 0
+calin  112 ccc 0

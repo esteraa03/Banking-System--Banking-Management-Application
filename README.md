@@ -1,7 +1,7 @@
 Banking System - Banking Management Application
 Description: Developing a banking system that allows authentication of users with different roles (admin and user) and management of banking operations. The system uses an enumeration for user types and offers various functionalities for each type of user.
 
-Technologies used: C/C++, Data Structures, Enumerations, Operating Systems, User Management, File Handling, Authentication and Authorization
+Technologies used: C/C++, Data Structures, Enumerations, User Management, File Handling, Authentication and Authorization
 
 Implemented functionalities:
 User authentication:
